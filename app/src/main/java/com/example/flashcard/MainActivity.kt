@@ -1,4 +1,4 @@
-package com.example.flashcard // Убедись, что пакет совпадает с твоим проектом!
+package com.example.flashcard 
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
